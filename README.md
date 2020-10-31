@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".imagens/Screenshot_2.png" width="100%">
+  <img alt="Frontend" src=".imagens/screen.png" width="100%">
 </p>
 
 ## 💻 Projeto
